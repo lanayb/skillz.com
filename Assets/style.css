@@ -41,23 +41,25 @@ header {
   cursor: pointer;
 }
 
-.footer {
-  display: inline-block;
+ .footer {
   color: darkblue;
-  /* justify-content: right; */
-  /* align-items: center; */
   position: fixed;
   width: 100%;
   bottom: 0%;
   text-decoration: none;
   background-color: skyblue
 
-}
+} 
 
 .footer-links li a:hover{
   color: plum;
+  float: left;
 
 
+}
+
+#phone {
+  float: right;
 }
 
 
