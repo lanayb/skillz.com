@@ -41,6 +41,31 @@ header {
   cursor: pointer;
 }
 
+#project1 {
+  background-color: aliceblue;
+  margin-top: 20px;
+  padding: 50px;
+}
+
+#AboutMe {
+  background-color: aliceblue;
+  margin-top: 20px;
+  padding: 50px;
+}
+
+
+#resume {
+  background-color: aliceblue;
+  margin-top: 20px;
+  padding: 50px;
+}
+
+#contactMe {
+  background-color: aliceblue;
+  margin-top: 20px;
+  padding: 50px;
+}
+
  .footer {
   color: darkblue;
   position: fixed;
