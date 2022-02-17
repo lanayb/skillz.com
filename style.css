@@ -47,10 +47,17 @@ header {
   padding: 50px;
 }
 
+
+
 #AboutMe {
   background-color: aliceblue;
   margin-top: 20px;
   padding: 50px;
+}
+
+#lanay{
+  width: 200px;
+  
 }
 
 
